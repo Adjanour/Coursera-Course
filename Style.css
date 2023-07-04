@@ -1,0 +1,53 @@
+#intro_section{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    font-size: large;
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#name{
+    color:aliceblue;
+    font: inherit;
+}
+#email{
+    color:aliceblue;
+}
+#personal_image2{
+    border-radius: 100%;
+    background-color: yellow;
+}
+#education_heading{
+    color:#161B40;
+    text-align: center;
+    font-family:cursive;
+}
+table, th, td {
+    border: 2px solid black;
+    border-radius: 4px;
+}
+#experience_heading{
+    color:#161B40;
+    text-align:center ;
+    font-family:cursive;
+}
+#projects_title{
+    color:#161B40;
+    text-align: center;
+    font-family:cursive;
+}
+#about_heading{
+    color:#161B40;
+    text-align: center;
+}
+#second_section{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+#about_heading{
+    color: aqua;
+}
